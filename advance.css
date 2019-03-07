@@ -1,0 +1,46 @@
+html, body {
+	font-family: 'Comfortaa', cursive;
+}
+.main {
+	background-color: #ADCBE3;
+	border-radius: 5px;
+	padding-left: 10px;
+
+}
+.submitbtn {
+	height: 25px;
+	width: 100px;
+	border-radius: 40px;
+	outline: none;
+	border : none;
+	background : #fff;
+	border: 2px solid #1ECD97;
+	
+    font-size:12px;
+    font-weight:bold;
+    margin: 2px;
+
+}
+.submitbtn:hover {
+	font-size:12px;
+    font-weight:bold;
+    color:white;
+    background: #1ECD97;
+  }
+
+  .drop	{
+	height: 20px;
+	width: 80px;
+	border-radius: 5px;
+	font-weight: 5px;
+	font-size: 16px;
+}
+.box789 {
+	height: 25px;
+	width: 300px;
+	border-radius: 10px;
+	text-align: center;
+	border: none;
+	border: 2px solid #86ABF8;
+	margin: 2px;
+}

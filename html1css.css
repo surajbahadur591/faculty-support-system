@@ -1,0 +1,32 @@
+html, body {
+	font-family: 'Slabo 27px', serif;
+	font-size: 20px;
+	font-weight: 5em;
+	
+}
+.main .right {
+	background-color: #ADCBE3;
+	border-radius: 5px;
+	padding-left: 10px;
+	
+	}
+
+.submitbtn {
+	height: 35px;
+	width: 120px;
+	border-radius: 40px;
+	outline: none;
+	border : none;
+	background : #fff;
+	border: 2px solid #1ECD97;
+	
+    font-size:12px;
+    font-weight:bold;
+
+}
+.submitbtn:hover {
+	font-size:12px;
+    font-weight:bold;
+    color:white;
+    background: #1ECD97;
+  }
